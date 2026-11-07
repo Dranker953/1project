@@ -1,5 +1,5 @@
 # 1project
-pierwsze zadanie.
+pierwsze zadanie
 imie = input("Jak masz na imię? ")
 print("Cześć", imie, "!")
 print("Witaj w moim programie!")
